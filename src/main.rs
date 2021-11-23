@@ -1,3 +1,5 @@
+use snek_game::run;
+
 fn main() {
-    println!("Hello, world!");
+    run();
 }
